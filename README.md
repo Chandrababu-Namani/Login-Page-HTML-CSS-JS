@@ -5,9 +5,9 @@ This project is a simple and responsive login page created using HTML, CSS, and 
 
 You can see a live demo of this login page here: [Live Demo](https://your-demo-link.com)
 # Log in page
-![Login Page](https://github.com/Chandrababu-Namani/Login-Page-HTML-CSS-JS/blob/main/Screenshots/Log%20in%20form.png)
-# Log in form
 ![Login form](https://github.com/Chandrababu-Namani/Login-Page-HTML-CSS-JS/blob/main/Screenshots/Log%20in%20page.png)
+# Log in form
+![Login Page](https://github.com/Chandrababu-Namani/Login-Page-HTML-CSS-JS/blob/main/Screenshots/Log%20in%20form.png)
 # Register form
 ![Register form](https://github.com/Chandrababu-Namani/Login-Page-HTML-CSS-JS/blob/main/Screenshots/Register%20form.png)
 
