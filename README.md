@@ -1,4 +1,4 @@
-# Simple Login Page with HTML, CSS, and JavaScript
+# Login Page with HTML, CSS, and JavaScript
 This project is a simple and responsive login page created using HTML, CSS, and JavaScript. It's designed for web developers looking for a clean and customizable login page template.
 
 ## Demo
