@@ -3,7 +3,7 @@ This project is a simple and responsive login page created using HTML, CSS, and 
 
 ## Demo
 
-You can see a live demo of this login page here: [Live Demo](https://your-demo-link.com)
+You can see a live demo of this login page here: [Live Demo](https://chandrababu-namani.github.io/Login-Page-HTML-CSS-JS/)
 # Log in page
 ![Login form](https://github.com/Chandrababu-Namani/Login-Page-HTML-CSS-JS/blob/main/Screenshots/Log%20in%20page.png)
 # Log in form
